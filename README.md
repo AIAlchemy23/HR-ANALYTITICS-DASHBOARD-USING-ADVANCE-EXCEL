@@ -1,5 +1,5 @@
-It provides essential information about the project, its purpose, and instructions on how to use it. B
-elow is an example README file for an HR Analytics Excel Dashboard:
+It provides essential information about the project, its purpose, and instructions on how to use it. Below 
+is an example OF HR Analytics Excel Dashboard:
 
 ---
 
